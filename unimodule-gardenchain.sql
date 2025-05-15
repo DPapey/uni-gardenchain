@@ -28,7 +28,7 @@ CREATE SEQUENCE prodtype_seq
 
 
 --Dropping Tables in reverse order
-DROP TABLE transaction CASCADE CONSTRAINTS;
+DROP TABLE customer_transaction CASCADE CONSTRAINTS;
 DROP TABLE Store_Stock CASCADE CONSTRAINTS;
 DROP TABLE product CASCADE CONSTRAINTS;
 DROP TABLE product_type CASCADE CONSTRAINTS;
