@@ -10,7 +10,7 @@ Developed as part of a University module to deliver a scalable, normalised datab
 - Producable transaction reports including date boundary constraints. 
 
 ## Testing
-- All PL/SQL procedures and functions are thoroughly tested for expected outputs and logical accuracy.
+- Testing parameters for implemented functions and triggers for expected outputs and logical accuracy.
 - Custom error handling implemented with exception blocks, managing invalid operations and reinforcing data integrity.
 
 ## Tools and Environment
