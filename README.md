@@ -7,6 +7,7 @@ Developed as part of a University module to deliver a scalable, normalised datab
 - Schema designed in Third Normal Form (3NF) to ensure data integrity and scalability.
 - A single reproducible PL/SQL script initialises the database following a structured sequence: dropping, creating, populating, testing, and committing.
 - Implementation of data constraints, triggers, and stored procedures to maintain data consistency and automate logic.
+- Producable transaction reports including date boundary constraints. 
 
 ## Testing
 - All PL/SQL procedures and functions are thoroughly tested for expected outputs and logical accuracy.
