@@ -3,6 +3,10 @@
 ## Purpose
 Developed as part of a University module to deliver a scalable, normalised database solution for a scenario-based national garden centre chain. This project showcases the practical application of PL/SQL in data modelling, entity-relationship (ER) design, transactional processing, and report generation.
 
+## ER Diagram
+![Entity-Relation Diagram for the Schema](ER-Diagram.png)
+
+
 ## Functionality
 - Schema designed in Third Normal Form (3NF) to ensure data integrity and scalability.
 - A single reproducible PL/SQL script initialises the database following a structured sequence: dropping, creating, populating, testing, and committing.
