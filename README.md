@@ -6,7 +6,6 @@ Developed as part of a University module to deliver a scalable, normalised datab
 ## ER Diagram
 ![Entity-Relation Diagram for the Schema](ER-Diagram.png)
 
-
 ## Functionality
 - Schema designed in Third Normal Form (3NF) to ensure data integrity and scalability.
 - A single reproducible PL/SQL script initialises the database following a structured sequence: dropping, creating, populating, testing, and committing.
@@ -21,5 +20,6 @@ Developed as part of a University module to deliver a scalable, normalised datab
 - Oracle SQL Developer + Visual Studio Code (Oracle Extension) 
 - Oracle Cloud Database (Transactional Processing)
 - PL/SQL
+- LucidChart
 
 
